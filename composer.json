@@ -1,0 +1,15 @@
+{
+    "name": "zahiriddin/mainframeworkcli",
+    "description": "CLI system",
+    "type": "metapackage",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mainframeworkcli\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^8.0.3|^8.0.9"
+    }
+}
