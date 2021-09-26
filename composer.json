@@ -1,7 +1,7 @@
 {
     "name": "zahiriddin/mainframeworkcli",
     "description": "CLI system",
-    "type": "metapackage",
+    "type": "package",
     "license": "MIT",
     "autoload": {
         "psr-4": {
