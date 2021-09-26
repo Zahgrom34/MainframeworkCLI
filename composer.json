@@ -3,6 +3,12 @@
     "description": "CLI system",
     "type": "package",
     "license": "MIT",
+    "authors": [
+        {
+            "name": "Zahiriddin",
+            "email": "Zakhriw@gmail.com"
+        }
+    ],
     "autoload": {
         "psr-4": {
             "Mainframeworkcli\\": "src/"
